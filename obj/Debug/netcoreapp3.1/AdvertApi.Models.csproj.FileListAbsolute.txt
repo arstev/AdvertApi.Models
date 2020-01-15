@@ -1,0 +1,8 @@
+C:\MOE\WebAdvert\Source\AdvertApi.Models\bin\Debug\netcoreapp3.1\AdvertApi.Models.deps.json
+C:\MOE\WebAdvert\Source\AdvertApi.Models\bin\Debug\netcoreapp3.1\AdvertApi.Models.dll
+C:\MOE\WebAdvert\Source\AdvertApi.Models\bin\Debug\netcoreapp3.1\AdvertApi.Models.pdb
+C:\MOE\WebAdvert\Source\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.AssemblyInfoInputs.cache
+C:\MOE\WebAdvert\Source\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.AssemblyInfo.cs
+C:\MOE\WebAdvert\Source\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.dll
+C:\MOE\WebAdvert\Source\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.pdb
+C:\MOE\WebAdvert\Source\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.csprojAssemblyReference.cache
